@@ -1,0 +1,8 @@
+# Run the command in cmd assuming you have pip set up
+# to install required dependencies:
+
+# pip install -r requirements.txt
+
+pyserial
+ttkthemes
+matplotlib
